@@ -7,7 +7,7 @@ import android.graphics.LinearGradient;
 import android.graphics.Paint;
 import android.graphics.RectF;
 import android.graphics.Shader;
-import android.support.v4.content.ContextCompat;
+import androidx.core.content.ContextCompat;
 import android.text.TextUtils;
 import android.util.AttributeSet;
 import android.view.View;
