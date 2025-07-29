@@ -1,5 +1,3 @@
-// Root project build.gradle — NO `android {}` here
-
 buildscript {
     repositories {
         google()
